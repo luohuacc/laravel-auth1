@@ -1,0 +1,18 @@
+{
+    "name": "veda/auth-for-laravel",
+
+    "authors": [
+        {
+            "name": "luohua",
+            "email": "luoh@veda.com"
+        }
+
+    ],
+    "autoload": {
+        "psr-4": {
+            "Veda\\Auth\\": "src/"
+        }
+    },
+    "require": {}
+
+}
